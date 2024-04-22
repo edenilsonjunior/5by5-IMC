@@ -81,7 +81,7 @@ else
 }
 
 Console.WriteLine("=============================");
-Console.WriteLine($"IMC: {imc}");
+Console.WriteLine($"IMC: {imc:0.00}");
 Console.WriteLine($"Sexo: {sexo}");
 Console.WriteLine($"Situação: {situacao}");
 Console.WriteLine("=============================");
