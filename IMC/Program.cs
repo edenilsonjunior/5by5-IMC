@@ -17,9 +17,8 @@
  */
 
 float altura = 0, peso = 0, imc = 0;
-int sexo = 0;
+char sexo;
 string situacao;
-
 
 Console.WriteLine("=====Calcular IMC=====");
 
